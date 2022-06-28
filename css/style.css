@@ -334,7 +334,7 @@ header .follow a:hover{
 }
 
 #service{
-    padding-top: 4rem;
+    padding-top: 12rem;
 }
 
 .service .box-container{
@@ -424,6 +424,10 @@ header .follow a:hover{
     color:#666;
 }
 
+#portfolio{
+    margin-top: -8rem;
+}
+
 .portfolio .box-container{
     display: flex;
     flex-wrap: wrap;
@@ -484,6 +488,10 @@ header .follow a:hover{
 .portfolio .box-container .box .icons a:hover{
     background:var(--main-color);
     color:#fff;
+}
+
+#contact{
+    padding-top: 8rem;
 }
 
 .contact .icons-container{
