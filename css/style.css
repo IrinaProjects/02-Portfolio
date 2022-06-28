@@ -644,6 +644,23 @@ header .follow a:hover{
         display: none;
     }
 
+    #service{
+        padding-top: 2rem;
+    }
+
+    #experience{
+        padding-top: 2rem;
+    }
+
+    #portfolio{
+        padding-top: 8rem;
+        padding-bottom: -2rem;
+    }
+
+    #contact{
+        margin-top: -6rem;
+    }
+
 }
 
 @media (max-width:450px){
